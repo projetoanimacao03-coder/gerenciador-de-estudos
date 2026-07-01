@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://projeanimacao03-coder.github.io/gerenciador-de-estudos",
+  "homepage": "https://projetoanimacao03-coder.github.io/gerenciador-de-estudos",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
